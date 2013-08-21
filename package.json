@@ -1,0 +1,19 @@
+{
+  "name": "mocha-vs-nodeunit",
+  "description": "A fast, modular Node.js framework dedicated to building realtime single-page apps",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": "Roman Minkin <minkinroman@gmail.com>",
+  "dependencies": {
+    "mocha": "~1.2.1",
+    "should": "~0.6.3",
+    "nodeunit": "~0.8.1"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "start": "bash run.sh"
+  }
+}
