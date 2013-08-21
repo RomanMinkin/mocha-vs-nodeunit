@@ -11,12 +11,10 @@ describe('Test', function() {
 
         setTimeout(function(){
             (true).should.be.equal(true);
-
         }, 300);
 
         setTimeout(function(){
             (true).should.be.equal(false);
-
         }, 100);
 
         done();
@@ -35,7 +33,6 @@ exports.Test = {
 
         setTimeout(function(){
             test.equal(true, true);
-
         }, 300);
 
         setTimeout(function(){
