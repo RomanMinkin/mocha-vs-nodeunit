@@ -53,7 +53,7 @@ Error: Expected 2 assertions, 0 ran
 ```
 
 ## Conclusion
-So the conclusion is that to prevent developers and some programs mistakes it's better to use NodeUnit with ```test.expect()``` assertion at the begin of each test.
+So the conclusion is that to prevent developers and some programs mistakes it's better to use NodeUnit with ```test.expect()``` assertion at the beginning of each test.
 
 ## Runnig the tests
 To run both Mocha and NodeUnit tests and see how they work use ```./run.sh``` or ```npm start``` and do not forget to run ```npm install``` first.
